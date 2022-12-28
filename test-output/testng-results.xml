@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Selenium]]>
+    </line>
+    <line>
+      <![CDATA[Selenium java]]>
+    </line>
+    <line>
+      <![CDATA[Selenium jenkin]]>
+    </line>
+    <line>
+      <![CDATA[Selenium python]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-12-28T11:49:24 IST" name="Suite" finished-at="2022-12-28T11:49:24 IST" duration-ms="118">
+    <groups>
+    </groups>
+    <test started-at="2022-12-28T11:49:24 IST" name="Test" finished-at="2022-12-28T11:49:24 IST" duration-ms="118">
+      <class name="tesng.Testcase3">
+        <test-method signature="tc3()[pri:0, instance:tesng.Testcase3@21de60b4]" started-at="2022-12-28T11:49:24 IST" name="tc3" finished-at="2022-12-28T11:49:24 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Selenium jenkin]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+      </class> <!-- tesng.Testcase3 -->
+      <class name="tesng.Testcase4">
+        <test-method signature="tc4()[pri:0, instance:tesng.Testcase4@c267ef4]" started-at="2022-12-28T11:49:24 IST" name="tc4" finished-at="2022-12-28T11:49:24 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Selenium python]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc4 -->
+      </class> <!-- tesng.Testcase4 -->
+      <class name="tesng.Testcase1">
+        <test-method signature="tc1()[pri:0, instance:tesng.Testcase1@64cd705f]" started-at="2022-12-28T11:49:24 IST" name="tc1" finished-at="2022-12-28T11:49:24 IST" duration-ms="29" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Selenium]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+      </class> <!-- tesng.Testcase1 -->
+      <class name="tesng.Testcase2">
+        <test-method signature="tc2()[pri:0, instance:tesng.Testcase2@1700915]" started-at="2022-12-28T11:49:24 IST" name="tc2" finished-at="2022-12-28T11:49:24 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Selenium java]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+      </class> <!-- tesng.Testcase2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
